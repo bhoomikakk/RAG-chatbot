@@ -5,6 +5,7 @@ ENV/
 
 # Python cache
 __pycache__/
+pycache/
 *.py[cod]
 *$py.class
 
@@ -13,6 +14,7 @@ chroma_db/
 
 # Environment variables
 .env
+.env.*
 
 # IDE / OS files
 .DS_Store
